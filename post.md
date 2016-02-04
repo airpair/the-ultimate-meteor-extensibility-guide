@@ -1,5 +1,3 @@
-# The Ultimate Meteor Extensibility Guide
-
 Synopsis
 > So you keep seeing Meteor mentioned around the web and you are wondering if it is worth your time to dive in and learn? Maybe you gave Meteor a look and did like what you saw? Take a look at how easy it is to switch out parts to the platform that you don't like.
 
